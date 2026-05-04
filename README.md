@@ -61,10 +61,6 @@
 
 <div align="center">
 
-![Viswa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viswayadeedya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viswayadeedya&layout=compact&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=viswayadeedya&theme=github-dark-blue&hide_border=true)
 
 </div>
