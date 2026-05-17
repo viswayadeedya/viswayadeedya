@@ -80,7 +80,6 @@
 
 ```
 MS Information Systems — Central Michigan University (GPA: 3.83)
-Based in Chicago, IL
 5+ years building production distributed systems
 ```
 
